@@ -1,11 +1,11 @@
 ### All in One Hacking tool For Hackers🥇
 ![](https://img.shields.io/github/license/sowetobadest/all-in-one-hacling-tools)
-![](https://img.shields.io/github/issues/sowetobadest))
-![](https://img.shields.io/github/issues-closed/sowetobadest))
-![](https://img.shields.io/badge/Python-3-blue)
-![](https://img.shields.io/github/forks/sowetobadest))
-![](https://img.shields.io/github/stars/sowetobadest))
-![](https://img.shields.io/github/last-commit/sowetobadest))
+![](https://img.shields.io/github/issues/sowetobadest/all-in-one-hacling-tools))
+![](https://img.shields.io/github/issues-closed/sowetobadest/all-in-one-hacling-tools))
+![](https://img.shields.io/badge/Python-3-blue/all-in-one-hacling-tools)
+![](https://img.shields.io/github/forks/sowetobadest/all-in-one-hacling-tools))
+![](https://img.shields.io/github/stars/sowetobadest/all-in-one-hacling-tools))
+![](https://img.shields.io/github/last-commit/sowetobadest/all-in-one-hacling-tools))
 [![HitCount](http://hits.dwyl.com/sowetobadest).svg)](http://hits.dwyl.com/sowetobadest))
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
 
@@ -294,6 +294,7 @@ Enter the options and continue.
 #### Don't Forgot to share with Your Friends 
 ### The new Update get will soon stay updated
 #### Thank you..!!
+
 
 
 
