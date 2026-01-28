@@ -1,12 +1,12 @@
 ### All in One Hacking tool For Hackers🥇
 ![](https://img.shields.io/github/license/sowetobadest)
-![](https://img.shields.io/github/issues/Z4nzu/hackingtool)
-![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool)
+![](https://img.shields.io/github/issues/sowetobadest))
+![](https://img.shields.io/github/issues-closed/sowetobadest))
 ![](https://img.shields.io/badge/Python-3-blue)
-![](https://img.shields.io/github/forks/Z4nzu/hackingtool)
-![](https://img.shields.io/github/stars/Z4nzu/hackingtool)
-![](https://img.shields.io/github/last-commit/Z4nzu/hackingtool)
-[![HitCount](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool)
+![](https://img.shields.io/github/forks/sowetobadest))
+![](https://img.shields.io/github/stars/sowetobadest))
+![](https://img.shields.io/github/last-commit/sowetobadest))
+[![HitCount](http://hits.dwyl.com/sowetobadest).svg)](http://hits.dwyl.com/sowetobadest))
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
 
 #### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://youtu.be/BsFhpIDcd9I) or use Docker
@@ -294,4 +294,5 @@ Enter the options and continue.
 #### Don't Forgot to share with Your Friends 
 ### The new Update get will soon stay updated
 #### Thank you..!!
+
 
