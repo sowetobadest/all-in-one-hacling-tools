@@ -219,25 +219,25 @@
 ## Steps are given below : 
 
 
-## Step : 1 Download hackingtool
+## Step : 1 Download all-in-one-hacling-tools
 
-    git clone https://github.com/Z4nzu/hackingtool.git
+    git clone https://github.com/sowetobadest/all-in-one-hacling-tools.git
 
-## Step : 2 Give Permission to hackingtool
+## Step : 2 Give Permission to all-in-one-hacling-tools
     
-    chmod -R 755 hackingtool  
+    chmod -R 755 all-in-one-hacling-tools  
 
-## Step : 3 Move to hackingtool directory
+## Step : 3 Move to all-in-one-hacling-tools directory
 
-    cd hackingtool
+    cd all-in-one-hacling-tools
 
-## Step : 4 Run hackingtool
+## Step : 4 Run all-in-one-hacling-tools
     
     sudo python install.py
 
 ## Step : 5 For installing tools in directory
 
-    sudo hackingtool
+    sudo all-in-one-hacling-tools
 
 
 ## Use image with Docker
@@ -246,7 +246,7 @@
 - Create the docker image 
 
 ```bash
-docker buitl -t vgpastor/hackingtool .
+docker buitl -t vgpastor/all-in-one-hacling-tools .
 ```
 
 ### Run as container 
@@ -259,7 +259,7 @@ docker-compose up -d
 
 - Get into the container 
 ```bash
-docker exec -it hackingtool bash
+docker exec -it all-in-one-hacling-tools bash
 ```
 **OUTPUT:**
 ```bash
@@ -294,6 +294,7 @@ Enter the options and continue.
 #### Don't Forgot to share with Your Friends 
 ### The new Update get will soon stay updated
 #### Thank you..!!
+
 
 
 
